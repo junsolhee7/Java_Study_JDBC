@@ -15,11 +15,12 @@ public class TestMain {
 		RegionsView regionsView = new RegionsView();
 		EmployeesDAO employeesDAO = new EmployeesDAO();
 		try {
-			regionDAO.getList();
+//			regionDAO.getList();
 //			countryDAO.getList();
 //			regionDAO.getDetail(1);
 //			regionsView.view(regionDAO.getDetail(1));
-			employeesDAO.getSalaryInfo();
+//			employeesDAO.getSalaryInfo();
+//			countriesDAO.
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
